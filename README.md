@@ -14,4 +14,4 @@ This project utilizes the following modules/packages:
 
 `python tvshows.py`
 
-![push notification example](https://github.com/wilterson/banco-de-series-updates/blob/master/pushexample.jpg?raw=true)
+![push notification example](https://github.com/wilterson/banco-de-series-updates/blob/master/pushnotify.jpeg?raw=true)
